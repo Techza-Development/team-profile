@@ -1,4 +1,4 @@
-# team-profile
+# Team-Profile
 Profile web des membres de l'équipe de développement Techza.
 Les profiles sont disponibles sous les domaines cité ci dessous.
 
